@@ -8,12 +8,10 @@ Employee CRUD operations using Hibernate
 Simplified database interaction using Hibernate ORM
 Automatic table creation and management
 Enhanced database management via Hibernate annotations
+
+
 Technologies Used:
 Java (Hibernate)
 MySQL
 Hibernate ORM
-How to Run:
-Clone this repository.
-Set up your MySQL database with the provided schema (employees table).
-Configure Hibernate settings (hibernate.cfg.xml) for database connection.
-Run the Employee model class and EmployeeService using a servlet container (e.g., Tomcat).
+
